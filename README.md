@@ -1,1 +1,2 @@
-"# PeETSTORE_XML" 
+Orders.sql file is an analysis I made using MySQL. I analyzed an orders.csv file I got from kaggle. It consists of 16 columns and about 9900 rows. It's a sale analysis dataset. I KPI analysis like, total sales, total profit, total costs, yoy sales, yoy profits and total units sold. 
+I performed other analysis like, Sales by category, sales by subcategories, top 5 products by sales, sales by region, state and city. Other analysis as well which are well explained in the sql script containing the analysis. My findings as well are included in the script. The findings were quite interesting.
